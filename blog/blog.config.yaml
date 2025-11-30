@@ -1,0 +1,11 @@
+# Blog metadata
+title: "My Dev Blog"
+description: "Learning and building in public"
+
+# Appearance
+theme: "catppuccin-mocha"
+font: "inter"
+
+# Features
+show_toc: true
+show_repo_link: true
