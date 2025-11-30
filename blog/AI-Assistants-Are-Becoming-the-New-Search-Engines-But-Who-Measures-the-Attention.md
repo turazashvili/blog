@@ -1,10 +1,8 @@
 ---
 title: AI Assistants Are Becoming the New Search Engines — But Who Measures the Attention?
 date: 2025-12-01
-description: How AI assistants are replacing traditional search and why prompt-level analytics from VexRail define the future of AI search.
+description: How AI assistants are replacing traditional search and why prompt-level analytics from Vexrail define the future of AI search.
 ---
-
-# AI Assistants Are Becoming the New Search Engines — But Who Measures the Attention?
 
 ## The Shift: Users Now "Ask the AI"
 
@@ -56,20 +54,20 @@ The result is a multibillion-dollar gap at the heart of the AI economy. Attentio
 
 ---
 
-## Enter VexRail: The Analytics Layer for AI Search
+## Enter Vexrail: The Analytics Layer for AI Search
 
-[VexRail](https://vexrail.com?utm_source=plok&utm_medium=blog&utm_campaign=ai_search_article) fills the analytics void in this new AI-native search landscape.
+[Vexrail](https://vexrail.com?utm_source=plok&utm_medium=blog&utm_campaign=ai_search_article) fills the analytics void in this new AI-native search landscape.
 
-By transforming raw prompts into structured, actionable intelligence, VexRail becomes the **Google Analytics + AdSense for LLMs**.
+By transforming raw prompts into structured, actionable intelligence, Vexrail becomes the **Google Analytics + AdSense for LLMs**.
 
-### What VexRail Enables
+### What Vexrail Enables
 
 * **Prompt Intelligence** — Understand what users ask and how intents cluster.
 * **PromptGraph™** — Map prompts to entities, themes, and keyword-like structures.
 * **IntentScore™** — Predict CTR, CVR, eCPM, and value per intent.
 * **Monetization Insights** — Identify high-value prompt moments for contextual ads or affiliate suggestions.
 
-With VexRail, AI conversations finally become **measurable, optimizable, and monetizable**.
+With Vexrail, AI conversations finally become **measurable, optimizable, and monetizable**.
 
 Publishers can regain lost revenue. Developers can understand user intent. Advertisers can target with precision — without cookies or personal data.
 
@@ -81,6 +79,6 @@ AI assistants are becoming the new search engines. As users shift from web searc
 
 Prompts are the new keywords.
 
-And VexRail is building the infrastructure that will define the **AI search economy** — from analytics to monetization.
+And Vexrail is building the infrastructure that will define the **AI search economy** — from analytics to monetization.
 
-Learn more at **[VexRail.com](https://vexrail.com?utm_source=plok&utm_medium=blog&utm_campaign=ai_search_article)** and join the future of AI-native advertising and analytics.
+Learn more at **[Vexrail.com](https://vexrail.com?utm_source=plok&utm_medium=blog&utm_campaign=ai_search_article)** and join the future of AI-native advertising and analytics.

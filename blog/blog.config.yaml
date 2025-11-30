@@ -9,3 +9,6 @@ font: "inter"
 # Features
 show_toc: true
 show_repo_link: true
+
+#Analytics
+ga_id: "G-FGBG0BR61V"
